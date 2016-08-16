@@ -1,0 +1,66 @@
+body
+{
+	background-color: #efefef;
+}
+section
+{
+	margin-top: 60px;
+}
+
+.container
+{
+	width: 100%;
+	margin-left: auto;
+	margin-right: auto;
+}
+.gauche-nav
+{
+	background-color: #fff;
+}
+.bloc-deroulant-menu
+{
+	background-color: white;
+	padding: 18px;
+	border-radius: 3px;
+	min-height: 500px;
+}
+
+.default-form
+{
+	width: 70%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.commande-rapide
+{
+	margin: 4px;
+}
+.form-changer-liste-deroulante
+{
+	display: block;
+	width: 80%;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.ligneMembres
+{
+	margin-bottom: 5px;
+}
+.validerModifMembres
+{
+	margin-top: 10px;
+}
+.membres-form
+{
+    max-width: 140px;
+}
+
+.plugins
+{
+    z-index: 999999999999999999;
+    position: absolute;
+    top: 15px;
+    left: 35px;
+}

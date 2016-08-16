@@ -1,0 +1,31 @@
+Ce fichier contiens la config de base du serveur---
+Infos: 
+    - 
+        message: Image de démo à modifier dans le panel !
+        image: miniature-demo-1.png
+        lien: #
+    - 
+        message: Image de démo à modifier dans le panel !
+        image: miniature-demo-2.png
+        lien: #
+    - 
+        message: Image de démo à modifier dans le panel !
+        image: miniature-demo-3.png
+        lien: #
+Slider:
+    -
+        titre: Rejoignez-nous
+        message: Moins de blabla plus de glouglou.
+        image: lobby1.png
+    -
+        titre: Voila, Voila...
+        message: Moins de blabla plus de glouglou.
+        image: lobby1.png
+    -
+        titre:
+        message: >
+            Vous voulez avoir un site Web qui grâce aux dons des
+            joueurs vous permet de réduire considérablement les coûts
+            serveur?
+        image: lobby2.png
+SliderTitre: Sliders

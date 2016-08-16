@@ -1,0 +1,16 @@
+Ce fichier contiens la config de base du serveur---
+General: 
+    url: localhost:8000
+    name: BackToTheOrigin
+    theme: default
+    themeOption: bootstrap
+    description: 
+    bgType: 0
+    permsPlugin: permissionsEx
+    permsWorld: world
+DataBase: 
+    dbAdress: localhost
+    dbName: btto
+    dbUser: btto
+    dbPassword: 48sder3t
+    dbPort: 3306

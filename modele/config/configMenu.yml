@@ -1,0 +1,38 @@
+Ce fichier contiens la config de base du serveur---
+MenuTexte: 
+    - [glyph]home[/glyph]Accueil
+    - [glyph]signal[/glyph]News
+    - [glyph]shopping-cart[/glyph]Boutique
+    - [glyph]thumbs-up[/glyph]Voter
+    - [glyph]thumbs-up[/glyph]Forum
+    - [glyph]envelope[/glyph]Support
+    - [glyph]envelope[/glyph]Stream
+    - [glyph]envelope[/glyph]Map
+MenuName:
+    - accueil
+    - news
+    - boutique
+    - voter
+    - forum
+    - support
+    - stream
+    - map
+MenuLien: 
+    - index.php
+    - ?&page=news
+    - ?&page=boutique
+    - ?&page=voter
+    - ?&page=forum
+    - ?&page=support
+    - ?&page=stream
+    - ?&page=map
+MenuListeDeroulante:
+    [glyph]signal[/glyph]Autres:
+        - Stream
+        - Live-Map
+        - CGU-CGV
+MenuListeDeroulanteLien:
+    [glyph]signal[/glyph]Autres:
+        - ?&page=stream
+        - ?&page=map
+        - ?&page=cg
